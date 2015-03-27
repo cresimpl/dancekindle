@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo $* | grep -q -s -e '--help' -e '-h ' -e '-h$'; echo $?
+
 startall=$(date +%s)
 
 echo
