@@ -1,0 +1,5601 @@
+, 
+		    {
+			"age" : 35,
+			"dances" : [
+				{
+					"dance_id" : "13",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Blanka_Wirażko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Blanka",
+			"gender" : "0",
+			"height" : "179",
+			"last_name" : "Wirażko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.5894829,
+					53.2190038
+				]
+			},
+			"picture" : "http://img2.timeinc.net/people/i/2010/news/100426/dixie-carter.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 49,
+			"dances" : [
+				{
+					"dance_id" : "12",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bartłomiej_Weidman@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bartłomiej",
+			"gender" : "1",
+			"height" : "181",
+			"last_name" : "Weidman",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.8850936,
+					51.2949802
+				]
+			},
+			"picture" : "http://www.pimptheface.com/create/faces/preview/big_file241f3e67d5b26644413acd569e5a530c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 42,
+			"dances" : [
+				{
+					"dance_id" : "14",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Zofia_Tacowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Zofia",
+			"gender" : "0",
+			"height" : "158",
+			"last_name" : "Tacowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.7535372,
+					54.2291143
+				]
+			},
+			"picture" : "http://www.thetruthseeker.co.uk/wordpress/wp-content/uploads/2013/09/eofw.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 34,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jerzy_Flamand@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jerzy",
+			"gender" : "1",
+			"height" : "120",
+			"last_name" : "Flamand",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.4097891,
+					53.6584525
+				]
+			},
+			"picture" : "http://i.istockimg.com/file_thumbview_approve/39094074/3/stock-photo-39094074-senior-man-outdoor-portrait.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 29,
+			"dances" : [
+				{
+					"dance_id" : "50",
+					"learn_time" : "1",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bożena_Tarno@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bożena",
+			"gender" : "0",
+			"height" : "143",
+			"last_name" : "Tarno",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.1985207,
+					51.6248960
+				]
+			},
+			"picture" : "http://f.tqn.com/y/beauty/1/S/_/c/1/linda-fargo-bob-hair.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 17,
+			"dances" : [
+				{
+					"dance_id" : "19",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jarosław_Saredyn@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jarosław",
+			"gender" : "1",
+			"height" : "170",
+			"last_name" : "Saredyn",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.6909930,
+					54.7267045
+				]
+			},
+			"picture" : "https://s3-ap-southeast-1.amazonaws.com/c3a-java-files/76d89c8e99becf8431ba07eb91a67911.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 20,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Anna_Kubale@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Anna",
+			"gender" : "0",
+			"height" : "168",
+			"last_name" : "Kubale",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.2392051,
+					49.8637047
+				]
+			},
+			"picture" : "http://i.telegraph.co.uk/multimedia/archive/03013/berry_3013493b.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 59,
+			"dances" : [
+				{
+					"dance_id" : "36",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mariusz_Szolczewski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mariusz",
+			"gender" : "1",
+			"height" : "154",
+			"last_name" : "Szolczewski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.7452105,
+					51.1291094
+				]
+			},
+			"picture" : "http://media.scmagazineuk.com/images/2014/11/18/sethberman_686824.jpg%253Fformat%253Djpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "35",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mirosław_Suchałko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mirosław",
+			"gender" : "1",
+			"height" : "116",
+			"last_name" : "Suchałko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.9433925,
+					53.6915539
+				]
+			},
+			"picture" : "https://doverpolicenews.files.wordpress.com/2014/04/mintz.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "16",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Małgorzata_Parafjańczyk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Małgorzata",
+			"gender" : "0",
+			"height" : "113",
+			"last_name" : "Parafjańczyk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.2532170,
+					53.8187845
+				]
+			},
+			"picture" : "http://assets.nydailynews.com/polopoly_fs/1.164445!/img/httpImage/image.jpg_gen/derivatives/article_970/alg-dixie-carter-jpg.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 49,
+			"dances" : [
+				{
+					"dance_id" : "7",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Franciszek_Bartoszko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Franciszek",
+			"gender" : "1",
+			"height" : "122",
+			"last_name" : "Bartoszko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.6778591,
+					54.4301428
+				]
+			},
+			"picture" : "http://media.graytvinc.com/images/blackwellcharles.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 22,
+			"dances" : [
+				{
+					"dance_id" : "21",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Milena_Rychtar@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Milena",
+			"gender" : "0",
+			"height" : "122",
+			"last_name" : "Rychtar",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.2946534,
+					54.3510695
+				]
+			},
+			"picture" : "http://mormonwomen.chocolatepocketl.netdna-cdn.com/wp-content/uploads/2009/10/Mormon_Woman_Photo_Anderson4.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 29,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Lena_Klubków@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Lena",
+			"gender" : "0",
+			"height" : "136",
+			"last_name" : "Klubków",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.8822790,
+					52.1248522
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/d9/f7/f8/d9f7f80018ff7bd0c6bd70f175080627.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 30,
+			"dances" : [
+				{
+					"dance_id" : "17",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Klaudia_Mydlak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Klaudia",
+			"gender" : "0",
+			"height" : "140",
+			"last_name" : "Mydlak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.3616464,
+					52.3913691
+				]
+			},
+			"picture" : "http://www.healthywomen.org/sites/default/files/woman-in-her-70s.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 38,
+			"dances" : [
+				{
+					"dance_id" : "40",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Edyta_Drastik@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Edyta",
+			"gender" : "0",
+			"height" : "111",
+			"last_name" : "Drastik",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.9706027,
+					52.9840588
+				]
+			},
+			"picture" : "http://www.strictly-business.com/wp-content/uploads/2012/09/Dr.-Mary-Curtis-advanced-medical-imaging.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 15,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Wiesław_Szpringel@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Wiesław",
+			"gender" : "1",
+			"height" : "110",
+			"last_name" : "Szpringel",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.9580075,
+					49.9521349
+				]
+			},
+			"picture" : "http://nhm.giftplans.org/files/5713/2077/5827/70plusmodel.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "18",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Filip_Niemierzyński@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Filip",
+			"gender" : "1",
+			"height" : "171",
+			"last_name" : "Niemierzyński",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.9619458,
+					53.9061308
+				]
+			},
+			"picture" : "http://thebertshow.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-02-at-8.56.04-AM-640x250.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "7",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Dariusz_Ryszewa@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Dariusz",
+			"gender" : "1",
+			"height" : "148",
+			"last_name" : "Ryszewa",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2084846,
+					51.8679918
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/ac/c0/d7/acc0d74c40c091511ed970f53f7c789c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 45,
+			"dances" : [
+				{
+					"dance_id" : "34",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mariusz_Balczan@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mariusz",
+			"gender" : "1",
+			"height" : "145",
+			"last_name" : "Balczan",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.1589888,
+					51.9691257
+				]
+			},
+			"picture" : "http://www.demilked.com/magazine/wp-content/uploads/2015/01/auschwitz-survivors-portrait-70th-anniversary-reuters-30.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 48,
+			"dances" : [
+				{
+					"dance_id" : "13",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marlena_Toboła-Pertkiewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marlena",
+			"gender" : "0",
+			"height" : "124",
+			"last_name" : "Toboła-Pertkiewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.4876999,
+					51.2229164
+				]
+			},
+			"picture" : "http://resultplex.com/wp-content/uploads/2015/01/Wigs-For-Women-Over-70-Years-Of-Age-210x150.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "12",
+					"learn_time" : "5",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Roman_Skopirzepa@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Roman",
+			"gender" : "1",
+			"height" : "155",
+			"last_name" : "Skopirzepa",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.8495990,
+					53.2613658
+				]
+			},
+			"picture" : "http://3.bp.blogspot.com/-Bvey-xKNdWI/ULbd4S4pGUI/AAAAAAAAKIE/fdTrH37Ya90/s1600/chi-shooting-70yearold-johnnie-jones-charged-20121128.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 66,
+			"dances" : [
+				{
+					"dance_id" : "32",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Daniel_Margoreta@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Daniel",
+			"gender" : "1",
+			"height" : "168",
+			"last_name" : "Margoreta",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.1513394,
+					49.3963903
+				]
+			},
+			"picture" : "http://i.telegraph.co.uk/multimedia/archive/01387/eddie_george_1387127f.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 37,
+			"dances" : [
+				{
+					"dance_id" : "49",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Daniel_Gluchy@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Daniel",
+			"gender" : "1",
+			"height" : "153",
+			"last_name" : "Gluchy",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.1814744,
+					50.1412620
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/ac/c0/d7/acc0d74c40c091511ed970f53f7c789c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "47",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Wojciech_Kołtuńczuk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Wojciech",
+			"gender" : "1",
+			"height" : "145",
+			"last_name" : "Kołtuńczuk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.3803737,
+					54.4614640
+				]
+			},
+			"picture" : "http://static.fjcdn.com/comments/I%252Bm%252Bnot%252Bgay%252Bbut%252Bputin%252Bdoesn%252Bt%252Blook%252Btoo%252Bbad%252Bfor%252B_ce62e404ed04ba70d3ff78a9fa158952.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 17,
+			"dances" : [
+				{
+					"dance_id" : "18",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ireneusz_Dzijak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ireneusz",
+			"gender" : "1",
+			"height" : "141",
+			"last_name" : "Dzijak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.4128418,
+					53.4672395
+				]
+			},
+			"picture" : "http://www.eju.net/img/news/4318453417d68530b50575a73ed5e5ee.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 55,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Felicja_Wilczarek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Felicja",
+			"gender" : "0",
+			"height" : "157",
+			"last_name" : "Wilczarek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.6700200,
+					51.5422795
+				]
+			},
+			"picture" : "http://1ad.itocd.net/www/images/girl/1656401-1656600/f9436dba-b80e-4bd5-998a-081df58dbc70.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "29",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Janusz_Czaban@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Janusz",
+			"gender" : "1",
+			"height" : "140",
+			"last_name" : "Czaban",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.1894738,
+					52.4605055
+				]
+			},
+			"picture" : "http://image.hdstockphoto.com/pics/premium/thumbs/936/smiling-portrait-of-an-indian-senior-man_93637810.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 58,
+			"dances" : [
+				{
+					"dance_id" : "48",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Zbigniew_Tręd@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Zbigniew",
+			"gender" : "1",
+			"height" : "165",
+			"last_name" : "Tręd",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.4016507,
+					52.3554145
+				]
+			},
+			"picture" : "http://image.hdstockphoto.com/pics/premium/thumbs/936/smiling-portrait-of-an-indian-senior-man_93637810.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 50,
+			"dances" : [
+				{
+					"dance_id" : "15",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Lucyna_Petruczanis@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Lucyna",
+			"gender" : "0",
+			"height" : "142",
+			"last_name" : "Petruczanis",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.8204209,
+					51.4449473
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/88/b0/c6/88b0c6d90219e22b28fe32d285ff3081.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 69,
+			"dances" : [
+				{
+					"dance_id" : "56",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Arkadiusz_Rychau@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Arkadiusz",
+			"gender" : "1",
+			"height" : "178",
+			"last_name" : "Rychau",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.5750515,
+					50.4842209
+				]
+			},
+			"picture" : "http://www.west-midlands.police.uk/csimages/images/34887.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 15,
+			"dances" : [
+				{
+					"dance_id" : "54",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Karol_Reduchowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Karol",
+			"gender" : "1",
+			"height" : "128",
+			"last_name" : "Reduchowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.2537288,
+					49.3289221
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339944-1A424361000005DC-291_306x460.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "44",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mateusz_Załoński@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mateusz",
+			"gender" : "1",
+			"height" : "170",
+			"last_name" : "Załoński",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.9857852,
+					51.2181122
+				]
+			},
+			"picture" : "http://media.utsandiego.com/img/photos/2009/03/04/5b870722-40c2-4b27-a3de-98829d9a70cbnews.ap.org_r620x349.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 43,
+			"dances" : [
+				{
+					"dance_id" : "26",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jadwiga_Żeżulewska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jadwiga",
+			"gender" : "0",
+			"height" : "149",
+			"last_name" : "Żeżulewska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.3087726,
+					50.7027112
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/736x/b1/3a/9f/b13a9f0e19afa141b2417c2316e6c604.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 60,
+			"dances" : [
+				{
+					"dance_id" : "54",
+					"learn_time" : "2",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Elżbieta_Połgrabski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Elżbieta",
+			"gender" : "0",
+			"height" : "137",
+			"last_name" : "Połgrabski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.8275720,
+					54.5934828
+				]
+			},
+			"picture" : "http://images.sixtyandme.com/wp-content/uploads/2013/03/Sixty-and-Me-6-Healthy-Skin-Tips-for-Every-Woman-Over-60-670x325.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "19",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Leszek_Bolesto@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Leszek",
+			"gender" : "1",
+			"height" : "138",
+			"last_name" : "Bolesto",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.5514658,
+					51.3165196
+				]
+			},
+			"picture" : "http://malehairloss.co.uk/wp-content/uploads/2015/03/hairloss3-1-300x200.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 36,
+			"dances" : [
+				{
+					"dance_id" : "35",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ewa_Bozałek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ewa",
+			"gender" : "0",
+			"height" : "152",
+			"last_name" : "Bozałek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.1547541,
+					50.7220220
+				]
+			},
+			"picture" : "http://grandmother-blog.com/blog/wp-content/uploads/2015/03/Oldies.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 60,
+			"dances" : [
+				{
+					"dance_id" : "52",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Roman_Esperonnier@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Roman",
+			"gender" : "1",
+			"height" : "142",
+			"last_name" : "Esperonnier",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.7298959,
+					49.5145404
+				]
+			},
+			"picture" : "http://www.blogcdn.com/www.engadget.com/media/2011/10/dennis-ritchie.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 54,
+			"dances" : [
+				{
+					"dance_id" : "25",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Michał_Kołenda@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Michał",
+			"gender" : "1",
+			"height" : "140",
+			"last_name" : "Kołenda",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6534713,
+					51.9915457
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339944-1A424361000005DC-291_306x460.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "36",
+					"learn_time" : "3",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Celina_Borlandelli@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Celina",
+			"gender" : "0",
+			"height" : "138",
+			"last_name" : "Borlandelli",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.9398276,
+					50.8939808
+				]
+			},
+			"picture" : "http://media.oregonlive.com/clackamascounty_impact/photo/carol-jean-schreiner-age-70jpg-f22e4f293e29fcbc.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "32",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Krzysztof_Darist@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Krzysztof",
+			"gender" : "1",
+			"height" : "180",
+			"last_name" : "Darist",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9934642,
+					53.5864650
+				]
+			},
+			"picture" : "http://i.ytimg.com/vi/8--QqcjdMt8/0.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "52",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jerzy_Łagudka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jerzy",
+			"gender" : "1",
+			"height" : "170",
+			"last_name" : "Łagudka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.2025950,
+					51.5417101
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2015/03/26/00/26FEA82C00000578-3012094-image-a-70_1427329877623.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 58,
+			"dances" : [
+				{
+					"dance_id" : "48",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Elżbieta_Janczak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Elżbieta",
+			"gender" : "0",
+			"height" : "187",
+			"last_name" : "Janczak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.8096513,
+					53.1975741
+				]
+			},
+			"picture" : "https://www.czech-single-women.com/foto/eu/inzeraty_zeny/profile/d160cacecb32e953cbe70f7798bc13dc.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "11",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sebastian_Mionsek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sebastian",
+			"gender" : "1",
+			"height" : "147",
+			"last_name" : "Mionsek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.1021273,
+					49.4330546
+				]
+			},
+			"picture" : "http://www.drweil.com/drw/file/Man-older-cheerful-smilingQA.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "22",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Patrycja_Kopinski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Patrycja",
+			"gender" : "0",
+			"height" : "122",
+			"last_name" : "Kopinski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.7716770,
+					53.1607110
+				]
+			},
+			"picture" : "http://2.bp.blogspot.com/-AZnerYpx9Gw/U_y2aVHvbuI/AAAAAAAAAjc/AHwCs1pgdwc/s1600/Hairstyles%25252BFor%25252BWomen%25252BOver%25252B60%25252BWith%25252BLong%25252BHair%25252BAnd%25252BShort%25252BHair%25252B2.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "19",
+					"learn_time" : "5",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Błażej_Wollenschlager@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Błażej",
+			"gender" : "1",
+			"height" : "166",
+			"last_name" : "Wollenschlager",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.1042793,
+					53.9872494
+				]
+			},
+			"picture" : "http://e2.365dm.com/11/12/660x350/Fergie1_2695837.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 19,
+			"dances" : [
+				{
+					"dance_id" : "34",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Natalia_Wykręt-Semilski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Natalia",
+			"gender" : "0",
+			"height" : "156",
+			"last_name" : "Wykręt-Semilski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.9018432,
+					52.5248253
+				]
+			},
+			"picture" : "http://grandmother-blog.com/blog/wp-content/uploads/2015/03/Oldies.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 27,
+			"dances" : [
+				{
+					"dance_id" : "12",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "_Niemycko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "",
+			"gender" : "0",
+			"height" : "128",
+			"last_name" : "Niemycko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.6560489,
+					51.4111565
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/ba/bd/4e/babd4e17773279e10d450b787eba011a.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 21,
+			"dances" : [
+				{
+					"dance_id" : "35",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Aleksander_Samańska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Aleksander",
+			"gender" : "1",
+			"height" : "159",
+			"last_name" : "Samańska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.5792404,
+					53.5417381
+				]
+			},
+			"picture" : "http://img.ksl.com/slc/582/58272/5827276.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 19,
+			"dances" : [
+				{
+					"dance_id" : "2",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Hubert_Kawowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Hubert",
+			"gender" : "1",
+			"height" : "152",
+			"last_name" : "Kawowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.8822447,
+					52.3540348
+				]
+			},
+			"picture" : "http://cache2.asset-cache.net/gc/155141815-very-upset-senior-man-gettyimages.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "28",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Maciej_Szterenberg@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Maciej",
+			"gender" : "1",
+			"height" : "155",
+			"last_name" : "Szterenberg",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.5898862,
+					50.5078608
+				]
+			},
+			"picture" : "http://www.lakeatitlantravelguide.com/wp-content/uploads/2014/04/Johan-Reinhard-Photo-Molly-Roberts.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 48,
+			"dances" : [
+				{
+					"dance_id" : "50",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sylwia_Sadlik@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sylwia",
+			"gender" : "0",
+			"height" : "189",
+			"last_name" : "Sadlik",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.8388105,
+					52.4632821
+				]
+			},
+			"picture" : "http://static.guim.co.uk/sys-images/Guardian/About/General/2011/7/9/1310217147992/Susan-Broom-48-says-she-h-007.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "57",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Cecylia_Zuchniak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Cecylia",
+			"gender" : "0",
+			"height" : "135",
+			"last_name" : "Zuchniak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9037587,
+					54.9708511
+				]
+			},
+			"picture" : "http://cdn.images.express.co.uk/img/dynamic/9/285x214/44383_1.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "45",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Franciszek_Hryca@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Franciszek",
+			"gender" : "1",
+			"height" : "180",
+			"last_name" : "Hryca",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.7524011,
+					50.8571124
+				]
+			},
+			"picture" : "http://media.scmagazineuk.com/images/2014/11/18/sethberman_686824.jpg%253Fformat%253Djpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 67,
+			"dances" : [
+				{
+					"dance_id" : "49",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Łucja_Netzlaff@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Łucja",
+			"gender" : "0",
+			"height" : "178",
+			"last_name" : "Netzlaff",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.4927629,
+					50.4408764
+				]
+			},
+			"picture" : "http://www.strictly-business.com/wp-content/uploads/2012/09/Dr.-Mary-Curtis-advanced-medical-imaging.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 61,
+			"dances" : [
+				{
+					"dance_id" : "5",
+					"learn_time" : "5",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Patryk_Rejze@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Patryk",
+			"gender" : "1",
+			"height" : "167",
+			"last_name" : "Rejze",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.5050928,
+					49.4439375
+				]
+			},
+			"picture" : "http://static.guim.co.uk/sys-images/Society/Pix/pictures/2009/12/21/1261397930958/Ciar-n-Devane-chief-execu-001.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 65,
+			"dances" : [
+				{
+					"dance_id" : "10",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bożena_Gradin@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bożena",
+			"gender" : "0",
+			"height" : "157",
+			"last_name" : "Gradin",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.2901493,
+					51.5529834
+				]
+			},
+			"picture" : "http://www.drsoram.com/wp-content/uploads/older%252520woman.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 19,
+			"dances" : [
+				{
+					"dance_id" : "30",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Cezary_Krykiewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Cezary",
+			"gender" : "1",
+			"height" : "184",
+			"last_name" : "Krykiewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.4288992,
+					54.6221632
+				]
+			},
+			"picture" : "http://media.scmagazineuk.com/images/2014/11/18/sethberman_686824.jpg%253Fformat%253Djpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "44",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Amelia_Mitleger@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Amelia",
+			"gender" : "0",
+			"height" : "174",
+			"last_name" : "Mitleger",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.9299336,
+					52.9522394
+				]
+			},
+			"picture" : "http://dingo.care2.com/pictures/c2c/share/64/640/075/640750_370.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 17,
+			"dances" : [
+				{
+					"dance_id" : "33",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Wiktoria_Czachrowska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Wiktoria",
+			"gender" : "0",
+			"height" : "163",
+			"last_name" : "Czachrowska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.3415367,
+					50.3186291
+				]
+			},
+			"picture" : "http://www.thesecondactblog.com/wp-content/uploads/2014/03/joannatrollope_2164189b.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 15,
+			"dances" : [
+				{
+					"dance_id" : "45",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Włodzimierz_Krajczycka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Włodzimierz",
+			"gender" : "1",
+			"height" : "146",
+			"last_name" : "Krajczycka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.9945707,
+					53.3196955
+				]
+			},
+			"picture" : "https://beingsakin.files.wordpress.com/2013/04/panhandler-roy-gray.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 15,
+			"dances" : [
+				{
+					"dance_id" : "22",
+					"learn_time" : "3",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jarosław_Skrzyczek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jarosław",
+			"gender" : "1",
+			"height" : "183",
+			"last_name" : "Skrzyczek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.8166791,
+					53.9537526
+				]
+			},
+			"picture" : "http://www.standardmedia.co.ke/images/saturday/mouyt6757.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 58,
+			"dances" : [
+				{
+					"dance_id" : "2",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jarosław_Sektoś@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jarosław",
+			"gender" : "1",
+			"height" : "163",
+			"last_name" : "Sektoś",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.8046240,
+					54.9377172
+				]
+			},
+			"picture" : "http://www.waleg.com/images/antoine_choueiri.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "52",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Helena_Swotwińska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Helena",
+			"gender" : "0",
+			"height" : "122",
+			"last_name" : "Swotwińska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.1189947,
+					54.7307380
+				]
+			},
+			"picture" : "http://img2.timeinc.net/people/i/2010/news/100426/dixie-carter.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Kamila_Teos@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Kamila",
+			"gender" : "0",
+			"height" : "163",
+			"last_name" : "Teos",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.5223429,
+					49.2162351
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/736x/b1/3a/9f/b13a9f0e19afa141b2417c2316e6c604.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 27,
+			"dances" : [
+				{
+					"dance_id" : "6",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jacek_Siedlar@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jacek",
+			"gender" : "1",
+			"height" : "124",
+			"last_name" : "Siedlar",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.4499793,
+					51.5835048
+				]
+			},
+			"picture" : "https://postmediaedmonton.files.wordpress.com/2014/12/beyonce.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "10",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jolanta_Hrynda@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jolanta",
+			"gender" : "0",
+			"height" : "125",
+			"last_name" : "Hrynda",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.2842960,
+					53.1059582
+				]
+			},
+			"picture" : "http://i.ytimg.com/vi/_5_cxwx-dFc/maxresdefault.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 34,
+			"dances" : [
+				{
+					"dance_id" : "15",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Hanna_Kielonek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Hanna",
+			"gender" : "0",
+			"height" : "171",
+			"last_name" : "Kielonek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.7352994,
+					54.6003196
+				]
+			},
+			"picture" : "http://www.drweilblog.com/storage/post-photos/people/older/woman_gray_hair_smiling.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "60",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mirosława_Woroszyn@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mirosława",
+			"gender" : "0",
+			"height" : "117",
+			"last_name" : "Woroszyn",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.6250146,
+					50.7224569
+				]
+			},
+			"picture" : "http://3.bp.blogspot.com/-3qvQEiYOwUA/Ti9dmMFE-uI/AAAAAAAAAk0/Mti-cTwbjFs/s400/hairstyles%25252Bfor%25252Bwomen%25252Bage%25252B50%252525252B.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "18",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Anna_Świątko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Anna",
+			"gender" : "0",
+			"height" : "124",
+			"last_name" : "Świątko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.1715418,
+					49.5443899
+				]
+			},
+			"picture" : "https://www.czech-single-women.com/foto/eu/inzeraty_zeny/profile/d160cacecb32e953cbe70f7798bc13dc.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "31",
+					"learn_time" : "1",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Błażej_Kotława@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Błażej",
+			"gender" : "1",
+			"height" : "111",
+			"last_name" : "Kotława",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.2059968,
+					51.9899850
+				]
+			},
+			"picture" : "http://www.comfortlife.ca/blog/wp-content/uploads/2011/07/senior-and-doctor.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 54,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Irmina_Bajgrowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Irmina",
+			"gender" : "0",
+			"height" : "171",
+			"last_name" : "Bajgrowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.8059996,
+					54.7487822
+				]
+			},
+			"picture" : "http://upload.wikimedia.org/wikipedia/commons/4/4b/Theresa_May_-_Home_Secretary_and_minister_for_women_and_equality.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 50,
+			"dances" : [
+				{
+					"dance_id" : "55",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Krystian_Sataja@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Krystian",
+			"gender" : "1",
+			"height" : "115",
+			"last_name" : "Sataja",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.5605693,
+					50.4042025
+				]
+			},
+			"picture" : "http://e2.365dm.com/11/12/660x350/Fergie1_2695837.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 42,
+			"dances" : [
+				{
+					"dance_id" : "14",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Roman_Pieruszkaniec@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Roman",
+			"gender" : "1",
+			"height" : "147",
+			"last_name" : "Pieruszkaniec",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.5671587,
+					52.8979423
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2015/03/26/00/26FEA82C00000578-3012094-image-a-70_1427329877623.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 22,
+			"dances" : [
+				{
+					"dance_id" : "15",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Oliwia_Romsicki@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Oliwia",
+			"gender" : "0",
+			"height" : "154",
+			"last_name" : "Romsicki",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.5351965,
+					54.5098687
+				]
+			},
+			"picture" : "http://www.pulsetoday.co.uk/pictures/images_from_liferay/14/46/15/14461527.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 29,
+			"dances" : [
+				{
+					"dance_id" : "27",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sylwester_Sewerski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sylwester",
+			"gender" : "1",
+			"height" : "178",
+			"last_name" : "Sewerski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.9928976,
+					53.5155491
+				]
+			},
+			"picture" : "http://cache2.asset-cache.net/gc/155141815-very-upset-senior-man-gettyimages.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 36,
+			"dances" : [
+				{
+					"dance_id" : "26",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jakub_Goliesz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jakub",
+			"gender" : "1",
+			"height" : "173",
+			"last_name" : "Goliesz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.1264513,
+					53.6386271
+				]
+			},
+			"picture" : "http://www.eju.net/img/news/4318453417d68530b50575a73ed5e5ee.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 43,
+			"dances" : [
+				{
+					"dance_id" : "49",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Cecylia_Dużaj@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Cecylia",
+			"gender" : "0",
+			"height" : "125",
+			"last_name" : "Dużaj",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.4943914,
+					51.8911884
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/d0/63/2a/d0632a70c15da670ef519148190ab22f.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "57",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Monika_Gastołd@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Monika",
+			"gender" : "0",
+			"height" : "179",
+			"last_name" : "Gastołd",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.7449458,
+					54.4453729
+				]
+			},
+			"picture" : "http://upload.wikimedia.org/wikipedia/commons/4/4b/Theresa_May_-_Home_Secretary_and_minister_for_women_and_equality.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "52",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Wiktoria_Brzeżańczyk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Wiktoria",
+			"gender" : "0",
+			"height" : "119",
+			"last_name" : "Brzeżańczyk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.2680493,
+					54.6418665
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/474x/5d/6a/62/5d6a62f66b9b0c044a0ac38d0dc8ca49.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 69,
+			"dances" : [
+				{
+					"dance_id" : "31",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Luiza_Żuża@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Luiza",
+			"gender" : "0",
+			"height" : "125",
+			"last_name" : "Żuża",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.4446161,
+					52.4477730
+				]
+			},
+			"picture" : "http://www.healthywomen.org/sites/default/files/woman-in-her-70s.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 45,
+			"dances" : [
+				{
+					"dance_id" : "35",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Aneta_Grzeczk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Aneta",
+			"gender" : "0",
+			"height" : "129",
+			"last_name" : "Grzeczk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.8378173,
+					49.3551183
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/4b/fc/c7/4bfcc7bf98ef58e7312f597066a02dea.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "46",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Barbara_Gendel@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Barbara",
+			"gender" : "0",
+			"height" : "178",
+			"last_name" : "Gendel",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.6412245,
+					54.8195144
+				]
+			},
+			"picture" : "http://mormonwomen.chocolatepocketl.netdna-cdn.com/wp-content/uploads/2009/10/Mormon_Woman_Photo_Anderson4.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 37,
+			"dances" : [
+				{
+					"dance_id" : "11",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mariusz_Orczak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mariusz",
+			"gender" : "1",
+			"height" : "147",
+			"last_name" : "Orczak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.2337418,
+					52.9307900
+				]
+			},
+			"picture" : "http://theshakespeareblog.com/wp-content/uploads/2013/05/peter-brook.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 60,
+			"dances" : [
+				{
+					"dance_id" : "28",
+					"learn_time" : "3",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Laura_Siewień@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Laura",
+			"gender" : "0",
+			"height" : "147",
+			"last_name" : "Siewień",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.5581068,
+					53.1208621
+				]
+			},
+			"picture" : "http://image-cdn.zap2it.com/images/dixie-carter-hal-holbrook-zap2it.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 33,
+			"dances" : [
+				{
+					"dance_id" : "53",
+					"learn_time" : "3",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Szymon_Suchowucka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Szymon",
+			"gender" : "1",
+			"height" : "177",
+			"last_name" : "Suchowucka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.8375673,
+					52.1307467
+				]
+			},
+			"picture" : "https://beingsakin.files.wordpress.com/2013/04/panhandler-roy-gray.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 32,
+			"dances" : [
+				{
+					"dance_id" : "13",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Dominika_Sobonow@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Dominika",
+			"gender" : "0",
+			"height" : "161",
+			"last_name" : "Sobonow",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.3728588,
+					54.9243261
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/4e/fd/1c/4efd1c426cbcaa942deae4400cf80208.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 36,
+			"dances" : [
+				{
+					"dance_id" : "43",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Agnieszka_Goworczuk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Agnieszka",
+			"gender" : "0",
+			"height" : "171",
+			"last_name" : "Goworczuk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.9745209,
+					49.7635673
+				]
+			},
+			"picture" : "https://olyeats.files.wordpress.com/2012/07/greyoldsmilewomanbeautygrayhair-885ac33075aca0f580734658c0150349_h.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "55",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Kamila_Hiłas@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Kamila",
+			"gender" : "0",
+			"height" : "159",
+			"last_name" : "Hiłas",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.9595086,
+					52.6165260
+				]
+			},
+			"picture" : "http://i.istockimg.com/file_thumbview_approve/34164940/2/stock-photo-34164940-portrait-of-a-sad-elderly-woman-age-70-75-years.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "18",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Agnieszka_Bangard@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Agnieszka",
+			"gender" : "0",
+			"height" : "153",
+			"last_name" : "Bangard",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.9861095,
+					50.7531660
+				]
+			},
+			"picture" : "http://www.grimsbytelegraph.co.uk/images/localworld/ugc-images/276369/Article/images/20588594/5784124-large.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 69,
+			"dances" : [
+				{
+					"dance_id" : "5",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Tadeusz_Damaj@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Tadeusz",
+			"gender" : "1",
+			"height" : "113",
+			"last_name" : "Damaj",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.8896443,
+					49.5830291
+				]
+			},
+			"picture" : "http://s3-ak.buzzfeed.com/static/enhanced/terminal01/2011/4/5/16/enhanced-buzz-16307-1302035211-25.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 37,
+			"dances" : [
+				{
+					"dance_id" : "14",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Igor_Kocma@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Igor",
+			"gender" : "1",
+			"height" : "150",
+			"last_name" : "Kocma",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.2101841,
+					53.9705667
+				]
+			},
+			"picture" : "http://image.hdstockphoto.com/pics/premium/thumbs/936/smiling-portrait-of-an-indian-senior-man_93637810.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 66,
+			"dances" : [
+				{
+					"dance_id" : "30",
+					"learn_time" : "1",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Andżelika_Hrapkiewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Andżelika",
+			"gender" : "0",
+			"height" : "149",
+			"last_name" : "Hrapkiewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.5419278,
+					54.4389699
+				]
+			},
+			"picture" : "http://fabafter40-cdn.wpengine.netdna-cdn.com/wp-content/uploads/2009/04/helene_lisa-clash-09.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 55,
+			"dances" : [
+				{
+					"dance_id" : "22",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Andżelika_Sawoch@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Andżelika",
+			"gender" : "0",
+			"height" : "131",
+			"last_name" : "Sawoch",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.2420507,
+					51.9582213
+				]
+			},
+			"picture" : "https://www.czech-single-women.com/foto/eu/inzeraty_zeny/profile/d160cacecb32e953cbe70f7798bc13dc.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "58",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Andrzej_Chmioła@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Andrzej",
+			"gender" : "1",
+			"height" : "122",
+			"last_name" : "Chmioła",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6478063,
+					53.4930837
+				]
+			},
+			"picture" : "https://s3-ap-southeast-1.amazonaws.com/c3a-java-files/76d89c8e99becf8431ba07eb91a67911.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "3",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Michał_Poplanta@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Michał",
+			"gender" : "1",
+			"height" : "130",
+			"last_name" : "Poplanta",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.9829142,
+					51.4048546
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339944-1A424361000005DC-291_306x460.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 41,
+			"dances" : [
+				{
+					"dance_id" : "34",
+					"learn_time" : "2",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jerzy_Chabarnal@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jerzy",
+			"gender" : "1",
+			"height" : "185",
+			"last_name" : "Chabarnal",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.7031181,
+					53.8487720
+				]
+			},
+			"picture" : "http://www.rutherfordweekly.com/files/image/article/full_4082.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 18,
+			"dances" : [
+				{
+					"dance_id" : "29",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "_Korpów@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "",
+			"gender" : "1",
+			"height" : "154",
+			"last_name" : "Korpów",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.4211327,
+					52.8158888
+				]
+			},
+			"picture" : "http://media.oregonlive.com/wilsonville/photo/andrew-j-firkins-jr-age-40jpg-fe70febf57244533.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 63,
+			"dances" : [
+				{
+					"dance_id" : "29",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Piotr_Tuksiski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Piotr",
+			"gender" : "1",
+			"height" : "110",
+			"last_name" : "Tuksiski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.6363347,
+					52.3107698
+				]
+			},
+			"picture" : "http://www.pimptheface.com/create/faces/preview/big_file241f3e67d5b26644413acd569e5a530c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 35,
+			"dances" : [
+				{
+					"dance_id" : "45",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Hubert_Zwodniak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Hubert",
+			"gender" : "1",
+			"height" : "119",
+			"last_name" : "Zwodniak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.9394089,
+					54.2930023
+				]
+			},
+			"picture" : "http://www.mylouisvilletherapist.com/wp-content/uploads/2013/01/Tony-Hall-LCSW-CEAP-SAP-294x283.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 28,
+			"dances" : [
+				{
+					"dance_id" : "1",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Miłosz_Pielch@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Miłosz",
+			"gender" : "1",
+			"height" : "164",
+			"last_name" : "Pielch",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.3687461,
+					54.3267647
+				]
+			},
+			"picture" : "http://cache2.asset-cache.net/gc/155141815-very-upset-senior-man-gettyimages.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 18,
+			"dances" : [
+				{
+					"dance_id" : "16",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Celina_Niekratowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Celina",
+			"gender" : "0",
+			"height" : "144",
+			"last_name" : "Niekratowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.7615114,
+					54.4870125
+				]
+			},
+			"picture" : "http://f.tqn.com/y/beauty/1/S/_/c/1/linda-fargo-bob-hair.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 51,
+			"dances" : [
+				{
+					"dance_id" : "53",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Rafał_Ratenow@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Rafał",
+			"gender" : "1",
+			"height" : "143",
+			"last_name" : "Ratenow",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.7598820,
+					49.9341445
+				]
+			},
+			"picture" : "http://static.fjcdn.com/comments/I%252Bm%252Bnot%252Bgay%252Bbut%252Bputin%252Bdoesn%252Bt%252Blook%252Btoo%252Bbad%252Bfor%252B_ce62e404ed04ba70d3ff78a9fa158952.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 63,
+			"dances" : [
+				{
+					"dance_id" : "13",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Luiza_Geliak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Luiza",
+			"gender" : "0",
+			"height" : "190",
+			"last_name" : "Geliak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.2050260,
+					53.3407783
+				]
+			},
+			"picture" : "http://www.drweilblog.com/storage/post-photos/people/older/woman_gray_hair_smiling.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 47,
+			"dances" : [
+				{
+					"dance_id" : "47",
+					"learn_time" : "1",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Konrad_Burzowska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Konrad",
+			"gender" : "1",
+			"height" : "166",
+			"last_name" : "Burzowska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.1206520,
+					50.8814811
+				]
+			},
+			"picture" : "http://therealdeal.com/wp-content/uploads/2014/04/70-pine1.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "23",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jolanta_Sonnonfeld@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jolanta",
+			"gender" : "0",
+			"height" : "160",
+			"last_name" : "Sonnonfeld",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.5615878,
+					54.8959365
+				]
+			},
+			"picture" : "https://olyeats.files.wordpress.com/2012/07/greyoldsmilewomanbeautygrayhair-885ac33075aca0f580734658c0150349_h.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 26,
+			"dances" : [
+				{
+					"dance_id" : "19",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Eryk_Kleinolienst@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Eryk",
+			"gender" : "1",
+			"height" : "126",
+			"last_name" : "Kleinolienst",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.8716198,
+					49.8718461
+				]
+			},
+			"picture" : "http://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/10/joe-maddon-mlb-boston-red-sox-tampa-bay-rays1-850x560.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 46,
+			"dances" : [
+				{
+					"dance_id" : "1",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Tomasz_Erdeł@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Tomasz",
+			"gender" : "1",
+			"height" : "125",
+			"last_name" : "Erdeł",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.8983558,
+					53.9626111
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2013/06/11/article-2339944-1A424361000005DC-291_306x460.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 62,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ewa_Piłusińska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ewa",
+			"gender" : "0",
+			"height" : "110",
+			"last_name" : "Piłusińska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.8075109,
+					52.3181955
+				]
+			},
+			"picture" : "http://gto-live.com/wp-content/uploads/2015/01/short-haircuts-for-women-over-50-with-fine-hair1.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 67,
+			"dances" : [
+				{
+					"dance_id" : "17",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Kamila_Błacharczyk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Kamila",
+			"gender" : "0",
+			"height" : "151",
+			"last_name" : "Błacharczyk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.6899500,
+					54.6162095
+				]
+			},
+			"picture" : "http://cache2.asset-cache.net/gc/543688469-caucasian-woman-age-70-up-close-portrait-gettyimages.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "33",
+					"learn_time" : "5",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ireneusz_Paramosz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ireneusz",
+			"gender" : "1",
+			"height" : "171",
+			"last_name" : "Paramosz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9962789,
+					51.1348757
+				]
+			},
+			"picture" : "https://mesenescent.files.wordpress.com/2014/01/ian-mckellen.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 32,
+			"dances" : [
+				{
+					"dance_id" : "19",
+					"learn_time" : "1",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bartłomiej_Proboierz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bartłomiej",
+			"gender" : "1",
+			"height" : "127",
+			"last_name" : "Proboierz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.9871149,
+					52.1762178
+				]
+			},
+			"picture" : "http://senioramericansassociation.com/wp-content/uploads/2014/05/senior-man-smiling-298-x-298.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 38,
+			"dances" : [
+				{
+					"dance_id" : "15",
+					"learn_time" : "2",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Blanka_Dzieżawska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Blanka",
+			"gender" : "0",
+			"height" : "114",
+			"last_name" : "Dzieżawska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9942833,
+					54.1156424
+				]
+			},
+			"picture" : "http://dw-images-cdn.sevahd.net/photos/fc85x100/70c3e4e0798d510157188d76299037ce-1390575060.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 22,
+			"dances" : [
+				{
+					"dance_id" : "41",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Irmina_Somolewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Irmina",
+			"gender" : "0",
+			"height" : "178",
+			"last_name" : "Somolewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.3263133,
+					50.1823366
+				]
+			},
+			"picture" : "http://assets.nydailynews.com/polopoly_fs/1.164445!/img/httpImage/image.jpg_gen/derivatives/article_970/alg-dixie-carter-jpg.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 37,
+			"dances" : [
+				{
+					"dance_id" : "26",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sławomir_Mentelis@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sławomir",
+			"gender" : "1",
+			"height" : "115",
+			"last_name" : "Mentelis",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.2860712,
+					49.7443931
+				]
+			},
+			"picture" : "http://media.utsandiego.com/img/photos/2009/03/04/5b870722-40c2-4b27-a3de-98829d9a70cbnews.ap.org_r620x349.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 47,
+			"dances" : [
+				{
+					"dance_id" : "56",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Eryk_Tarsiński@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Eryk",
+			"gender" : "1",
+			"height" : "185",
+			"last_name" : "Tarsiński",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.2333745,
+					50.4474710
+				]
+			},
+			"picture" : "http://i.dailymail.co.uk/i/pix/2015/03/26/00/26FEA82C00000578-3012094-image-a-70_1427329877623.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 68,
+			"dances" : [
+				{
+					"dance_id" : "57",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ewa_Mojcek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ewa",
+			"gender" : "0",
+			"height" : "178",
+			"last_name" : "Mojcek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9254681,
+					49.8026864
+				]
+			},
+			"picture" : "http://www.allure.com/images/hair-ideas/2013/04/best-70s-haircut-judi-dench-th.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 63,
+			"dances" : [
+				{
+					"dance_id" : "38",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Konrad_Czuwałow@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Konrad",
+			"gender" : "1",
+			"height" : "137",
+			"last_name" : "Czuwałow",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.3855473,
+					52.5087612
+				]
+			},
+			"picture" : "http://www.demilked.com/magazine/wp-content/uploads/2015/01/auschwitz-survivors-portrait-70th-anniversary-reuters-30.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 32,
+			"dances" : [
+				{
+					"dance_id" : "60",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bogusław_Lamucha@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bogusław",
+			"gender" : "1",
+			"height" : "178",
+			"last_name" : "Lamucha",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.2364099,
+					51.8380016
+				]
+			},
+			"picture" : "http://www.sagevestwealth.com/new/sagevestwealthmanagement/images/Newsletter/MM%252520-%252520Age%25252070%252520-%252520Man%252520Birthday.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 18,
+			"dances" : [
+				{
+					"dance_id" : "48",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Irena_Prater@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Irena",
+			"gender" : "0",
+			"height" : "124",
+			"last_name" : "Prater",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.6772980,
+					51.1560753
+				]
+			},
+			"picture" : "http://fabafter40-cdn.wpengine.netdna-cdn.com/wp-content/uploads/2009/04/helene_lisa-clash-09.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 54,
+			"dances" : [
+				{
+					"dance_id" : "47",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Irmina_Żabnik@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Irmina",
+			"gender" : "0",
+			"height" : "170",
+			"last_name" : "Żabnik",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.6984899,
+					52.9348069
+				]
+			},
+			"picture" : "https://www.czech-single-women.com/foto/eu/inzeraty_zeny/profile/d160cacecb32e953cbe70f7798bc13dc.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 36,
+			"dances" : [
+				{
+					"dance_id" : "46",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Janusz_Rojkowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Janusz",
+			"gender" : "1",
+			"height" : "112",
+			"last_name" : "Rojkowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.9417152,
+					54.3797344
+				]
+			},
+			"picture" : "http://icare4autism.files.wordpress.com/2009/06/aging-man.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 22,
+			"dances" : [
+				{
+					"dance_id" : "21",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Magdalena_Harmann@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Magdalena",
+			"gender" : "0",
+			"height" : "166",
+			"last_name" : "Harmann",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.6660689,
+					53.4069954
+				]
+			},
+			"picture" : "http://2.bp.blogspot.com/-AZnerYpx9Gw/U_y2aVHvbuI/AAAAAAAAAjc/AHwCs1pgdwc/s1600/Hairstyles%25252BFor%25252BWomen%25252BOver%25252B60%25252BWith%25252BLong%25252BHair%25252BAnd%25252BShort%25252BHair%25252B2.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 42,
+			"dances" : [
+				{
+					"dance_id" : "22",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Karolina_Doniesiewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Karolina",
+			"gender" : "0",
+			"height" : "158",
+			"last_name" : "Doniesiewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.8265457,
+					53.3319095
+				]
+			},
+			"picture" : "http://www.shorthaircuthairstyle-ideas.com/wp-content/uploads/2013/09/short-hairstyles-for-women-over-40-with-wavy-hair.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "60",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Żaneta_Migatulski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Żaneta",
+			"gender" : "0",
+			"height" : "136",
+			"last_name" : "Migatulski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6313933,
+					49.4047208
+				]
+			},
+			"picture" : "http://www.thesecondactblog.com/wp-content/uploads/2014/03/joannatrollope_2164189b.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "43",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Łucja_Domzak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Łucja",
+			"gender" : "0",
+			"height" : "118",
+			"last_name" : "Domzak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.6161402,
+					52.4235337
+				]
+			},
+			"picture" : "http://f.tqn.com/y/beauty/1/S/_/c/1/linda-fargo-bob-hair.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 63,
+			"dances" : [
+				{
+					"dance_id" : "27",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Dominika_Uniechowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Dominika",
+			"gender" : "0",
+			"height" : "183",
+			"last_name" : "Uniechowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.1968544,
+					53.7621699
+				]
+			},
+			"picture" : "http://www.strictly-business.com/wp-content/uploads/2012/09/Dr.-Mary-Curtis-advanced-medical-imaging.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 66,
+			"dances" : [
+				{
+					"dance_id" : "2",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ewelina_Wzora@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ewelina",
+			"gender" : "0",
+			"height" : "115",
+			"last_name" : "Wzora",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.6223343,
+					50.1277081
+				]
+			},
+			"picture" : "http://i.istockimg.com/file_thumbview_approve/34164940/2/stock-photo-34164940-portrait-of-a-sad-elderly-woman-age-70-75-years.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "26",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Grzegorz_Mertke@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Grzegorz",
+			"gender" : "1",
+			"height" : "129",
+			"last_name" : "Mertke",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.6025849,
+					51.8375709
+				]
+			},
+			"picture" : "http://www.standardmedia.co.ke/images/saturday/mouyt6757.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 26,
+			"dances" : [
+				{
+					"dance_id" : "40",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Małgorzata_Glaeske@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Małgorzata",
+			"gender" : "0",
+			"height" : "141",
+			"last_name" : "Glaeske",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.9008530,
+					49.2188012
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/a8/ec/a0/a8eca0fb3710027985f70fd6b927a405.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "11",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Miłosz_Nahyga@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Miłosz",
+			"gender" : "1",
+			"height" : "174",
+			"last_name" : "Nahyga",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2738172,
+					51.9006083
+				]
+			},
+			"picture" : "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/15_cancer_symptoms_men_ignore_features/110x70_15_cancer_symptoms_men_ignore_features.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 33,
+			"dances" : [
+				{
+					"dance_id" : "12",
+					"learn_time" : "1",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Żaneta_Licha@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Żaneta",
+			"gender" : "0",
+			"height" : "121",
+			"last_name" : "Licha",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.3977722,
+					53.5358326
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/474x/5d/6a/62/5d6a62f66b9b0c044a0ac38d0dc8ca49.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "33",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Danuta_Miechalik@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Danuta",
+			"gender" : "0",
+			"height" : "113",
+			"last_name" : "Miechalik",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.8034071,
+					49.2415258
+				]
+			},
+			"picture" : "http://2.bp.blogspot.com/-AZnerYpx9Gw/U_y2aVHvbuI/AAAAAAAAAjc/AHwCs1pgdwc/s1600/Hairstyles%25252BFor%25252BWomen%25252BOver%25252B60%25252BWith%25252BLong%25252BHair%25252BAnd%25252BShort%25252BHair%25252B2.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 59,
+			"dances" : [
+				{
+					"dance_id" : "55",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Przemysław_Tarasiewicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Przemysław",
+			"gender" : "1",
+			"height" : "128",
+			"last_name" : "Tarasiewicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.1418459,
+					54.4569931
+				]
+			},
+			"picture" : "https://postmediaedmonton.files.wordpress.com/2014/12/beyonce.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 35,
+			"dances" : [
+				{
+					"dance_id" : "28",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Konrad_Poteńska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Konrad",
+			"gender" : "1",
+			"height" : "143",
+			"last_name" : "Poteńska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.4415766,
+					54.4926061
+				]
+			},
+			"picture" : "http://www.pimptheface.com/create/faces/preview/big_file241f3e67d5b26644413acd569e5a530c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 40,
+			"dances" : [
+				{
+					"dance_id" : "7",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Urszula_Zdrol@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Urszula",
+			"gender" : "0",
+			"height" : "147",
+			"last_name" : "Zdrol",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6846710,
+					54.5895582
+				]
+			},
+			"picture" : "http://s.hswstatic.com/gif/women-male-hormones-2.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "36",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Ewelina_Jaroszkowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Ewelina",
+			"gender" : "0",
+			"height" : "148",
+			"last_name" : "Jaroszkowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2398861,
+					54.3262001
+				]
+			},
+			"picture" : "http://3.bp.blogspot.com/-v2dlgWzp70Y/UZIfoyDvsrI/AAAAAAAAAQQ/9FzmwcwGKIo/s1600/001-short-hairstyles-for-older-women-2013.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 45,
+			"dances" : [
+				{
+					"dance_id" : "10",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jacek_Redman@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jacek",
+			"gender" : "1",
+			"height" : "187",
+			"last_name" : "Redman",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9765002,
+					52.8512092
+				]
+			},
+			"picture" : "http://e2.365dm.com/11/12/660x350/Fergie1_2695837.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 54,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bartłomiej_Czeczura@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bartłomiej",
+			"gender" : "1",
+			"height" : "121",
+			"last_name" : "Czeczura",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.6547341,
+					54.1701402
+				]
+			},
+			"picture" : "http://static.guim.co.uk/sys-images/Society/Pix/pictures/2009/12/21/1261397930958/Ciar-n-Devane-chief-execu-001.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 26,
+			"dances" : [
+				{
+					"dance_id" : "33",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Dominika_Kontysz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Dominika",
+			"gender" : "0",
+			"height" : "114",
+			"last_name" : "Kontysz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.5303248,
+					54.8849406
+				]
+			},
+			"picture" : "http://dingo.care2.com/pictures/c2c/share/64/640/075/640750_370.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 61,
+			"dances" : [
+				{
+					"dance_id" : "43",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Nikola_Daczka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Nikola",
+			"gender" : "0",
+			"height" : "120",
+			"last_name" : "Daczka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.2084971,
+					49.5145977
+				]
+			},
+			"picture" : "http://4.bp.blogspot.com/-sXBBQ7pnbvs/T8G1h8DadZI/AAAAAAAAEIU/6qOxCXEjyWk/s400/joyce,%252B80.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 40,
+			"dances" : [
+				{
+					"dance_id" : "8",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marcin_Kozal@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marcin",
+			"gender" : "1",
+			"height" : "159",
+			"last_name" : "Kozal",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.6295765,
+					53.6517931
+				]
+			},
+			"picture" : "http://topnews.in/files/Don%252520Catlin.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Arnold_Dupiński@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Arnold",
+			"gender" : "1",
+			"height" : "173",
+			"last_name" : "Dupiński",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.1265682,
+					54.5632562
+				]
+			},
+			"picture" : "http://i0.wp.com/www.channelbuzz.ca/wp-content/uploads/2014/09/Kevin_Leahy-Dim-Data-150.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 16,
+			"dances" : [
+				{
+					"dance_id" : "14",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bogusław_Susa@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bogusław",
+			"gender" : "1",
+			"height" : "149",
+			"last_name" : "Susa",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.9566165,
+					54.9657100
+				]
+			},
+			"picture" : "http://www.txdps.state.tx.us/mpch_images/final/M0607005.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 56,
+			"dances" : [
+				{
+					"dance_id" : "4",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Paulina_Biese@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Paulina",
+			"gender" : "0",
+			"height" : "152",
+			"last_name" : "Biese",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.2131691,
+					51.4889695
+				]
+			},
+			"picture" : "http://f.tqn.com/y/beauty/1/S/_/c/1/linda-fargo-bob-hair.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 48,
+			"dances" : [
+				{
+					"dance_id" : "47",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Jerzy_Noweła@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Jerzy",
+			"gender" : "1",
+			"height" : "167",
+			"last_name" : "Noweła",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.4256183,
+					54.5585195
+				]
+			},
+			"picture" : "http://www.demilked.com/magazine/wp-content/uploads/2015/01/auschwitz-survivors-portrait-70th-anniversary-reuters-30.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 42,
+			"dances" : [
+				{
+					"dance_id" : "3",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Gabriela_Ganżuk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Gabriela",
+			"gender" : "0",
+			"height" : "139",
+			"last_name" : "Ganżuk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.8841733,
+					53.5296322
+				]
+			},
+			"picture" : "http://i.telegraph.co.uk/multimedia/archive/03013/berry_3013493b.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 55,
+			"dances" : [
+				{
+					"dance_id" : "27",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mariusz_Neky@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mariusz",
+			"gender" : "1",
+			"height" : "116",
+			"last_name" : "Neky",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.7175827,
+					52.5837598
+				]
+			},
+			"picture" : "https://postmediaedmonton.files.wordpress.com/2014/12/beyonce.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 61,
+			"dances" : [
+				{
+					"dance_id" : "55",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Karol_Puchar@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Karol",
+			"gender" : "1",
+			"height" : "131",
+			"last_name" : "Puchar",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.3785693,
+					51.4050086
+				]
+			},
+			"picture" : "http://senioramericansassociation.com/wp-content/uploads/2014/05/senior-man-smiling-298-x-298.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 50,
+			"dances" : [
+				{
+					"dance_id" : "27",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Zbigniew_Dżangozow@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Zbigniew",
+			"gender" : "1",
+			"height" : "162",
+			"last_name" : "Dżangozow",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.1553781,
+					54.3589358
+				]
+			},
+			"picture" : "http://i.istockimg.com/file_thumbview_approve/39094074/3/stock-photo-39094074-senior-man-outdoor-portrait.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "31",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Daria_Gabacki@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Daria",
+			"gender" : "0",
+			"height" : "174",
+			"last_name" : "Gabacki",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.4119126,
+					53.9257958
+				]
+			},
+			"picture" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c0.0.160.160/p160x160/1480642_248871591944765_552105676_n.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 48,
+			"dances" : [
+				{
+					"dance_id" : "42",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Mirosław_Rezanowicz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Mirosław",
+			"gender" : "1",
+			"height" : "131",
+			"last_name" : "Rezanowicz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.5025323,
+					54.7444638
+				]
+			},
+			"picture" : "http://www.morebikes.co.uk/wp-content/uploads/2014/04/000-Massimo-Tamburini.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 19,
+			"dances" : [
+				{
+					"dance_id" : "41",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marcin_Kordoń@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marcin",
+			"gender" : "1",
+			"height" : "184",
+			"last_name" : "Kordoń",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.6293257,
+					51.7450413
+				]
+			},
+			"picture" : "http://bioreports.net/wp-content/uploads/2015/03/benue.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 69,
+			"dances" : [
+				{
+					"dance_id" : "37",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Weronika_Fordyska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Weronika",
+			"gender" : "0",
+			"height" : "134",
+			"last_name" : "Fordyska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.2367547,
+					50.9253947
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/736x/b1/3a/9f/b13a9f0e19afa141b2417c2316e6c604.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "13",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Maciej_Kolibabski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Maciej",
+			"gender" : "1",
+			"height" : "178",
+			"last_name" : "Kolibabski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2451238,
+					52.3625902
+				]
+			},
+			"picture" : "http://therealdeal.com/wp-content/uploads/2014/04/70-pine1.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 49,
+			"dances" : [
+				{
+					"dance_id" : "35",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Martyna_Szymowanek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Martyna",
+			"gender" : "0",
+			"height" : "154",
+			"last_name" : "Szymowanek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.2971631,
+					52.1149502
+				]
+			},
+			"picture" : "http://www.haircutimage.com/wp-content/uploads/2014/12/layered-hairstyles-for-women-over-40-ideas.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 49,
+			"dances" : [
+				{
+					"dance_id" : "46",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Aneta_Neer@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Aneta",
+			"gender" : "0",
+			"height" : "146",
+			"last_name" : "Neer",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.9453402,
+					50.7334023
+				]
+			},
+			"picture" : "http://www.breastcancercampaign.org/sites/default/files/styles/large/public/field/image/img640-over-70-women.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 28,
+			"dances" : [
+				{
+					"dance_id" : "32",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Dariusz_Dziombar@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Dariusz",
+			"gender" : "1",
+			"height" : "149",
+			"last_name" : "Dziombar",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.7780853,
+					52.6539190
+				]
+			},
+			"picture" : "http://media.nj.com/salem_impact/photo/ronald-sorrelljpg-0a28d6a9b0d09d6e.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "45",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marzena_Gymbała@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marzena",
+			"gender" : "0",
+			"height" : "121",
+			"last_name" : "Gymbała",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.5964189,
+					52.2029195
+				]
+			},
+			"picture" : "http://athairstyles.com/wp-content/uploads/2015/02/very-short-hairstyles-for-women-over-70.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "52",
+					"learn_time" : "3",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Łukasz_Ryskie@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Łukasz",
+			"gender" : "1",
+			"height" : "156",
+			"last_name" : "Ryskie",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.1955340,
+					49.4392842
+				]
+			},
+			"picture" : "https://s3-ap-southeast-1.amazonaws.com/c3a-java-files/76d89c8e99becf8431ba07eb91a67911.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "42",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Nina_Maszczenkowska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Nina",
+			"gender" : "0",
+			"height" : "181",
+			"last_name" : "Maszczenkowska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.8128785,
+					52.6168828
+				]
+			},
+			"picture" : "http://blog.lindasonline.com/wp-content/uploads/2012/01/Rosing-BFF-2.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 67,
+			"dances" : [
+				{
+					"dance_id" : "53",
+					"learn_time" : "4",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Andżelika_Gołodowczuk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Andżelika",
+			"gender" : "0",
+			"height" : "145",
+			"last_name" : "Gołodowczuk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					16.4839422,
+					49.9653526
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/a8/ec/a0/a8eca0fb3710027985f70fd6b927a405.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "50",
+					"learn_time" : "4",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Miłosz_Losenicka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Miłosz",
+			"gender" : "1",
+			"height" : "163",
+			"last_name" : "Losenicka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.1752241,
+					52.3414191
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/a8/1e/f1/a81ef175dd6af12b82cb0080c8e2643e.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 24,
+			"dances" : [
+				{
+					"dance_id" : "6",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Aleksandra_Ziuzia@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Aleksandra",
+			"gender" : "0",
+			"height" : "116",
+			"last_name" : "Ziuzia",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2483468,
+					51.2464875
+				]
+			},
+			"picture" : "http://athairstyles.com/wp-content/uploads/2015/02/very-short-hairstyles-for-women-over-70.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "29",
+					"learn_time" : "1",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Adrian_Kastinger@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Adrian",
+			"gender" : "1",
+			"height" : "124",
+			"last_name" : "Kastinger",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.7190233,
+					54.7423236
+				]
+			},
+			"picture" : "http://cdn3.healthcommunities.com/image-gallery/size_400x348/crop_a/dir/article-upload/1608-667-03853636c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 33,
+			"dances" : [
+				{
+					"dance_id" : "27",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marlena_Dolgun@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marlena",
+			"gender" : "0",
+			"height" : "112",
+			"last_name" : "Dolgun",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.7345489,
+					50.4633303
+				]
+			},
+			"picture" : "http://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/03/hairstyles-for-round-faces-over-50-women.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 40,
+			"dances" : [
+				{
+					"dance_id" : "37",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Łukasz_Bistor@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Łukasz",
+			"gender" : "1",
+			"height" : "130",
+			"last_name" : "Bistor",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.8038823,
+					49.9903170
+				]
+			},
+			"picture" : "http://i.istockimg.com/file_thumbview_approve/35359338/3/stock-photo-35359338-happy-senior-eldery-man-smiling.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 42,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Franciszek_Olasz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Franciszek",
+			"gender" : "1",
+			"height" : "160",
+			"last_name" : "Olasz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.4492708,
+					53.6021431
+				]
+			},
+			"picture" : "http://sr.photos3.fotosearch.com/bthumb/AGE/AGE063/j47-623123.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 28,
+			"dances" : [
+				{
+					"dance_id" : "17",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Roman_Zeuke@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Roman",
+			"gender" : "1",
+			"height" : "111",
+			"last_name" : "Zeuke",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.1297705,
+					50.5162569
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/97/8d/03/978d03f3c1dd4dbf266e791bad15ae70.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 61,
+			"dances" : [
+				{
+					"dance_id" : "24",
+					"learn_time" : "5",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sebastian_Stącel@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sebastian",
+			"gender" : "1",
+			"height" : "124",
+			"last_name" : "Stącel",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.2639968,
+					54.5974247
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/97/8d/03/978d03f3c1dd4dbf266e791bad15ae70.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 29,
+			"dances" : [
+				{
+					"dance_id" : "5",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Karol_Skorobohaty@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Karol",
+			"gender" : "1",
+			"height" : "112",
+			"last_name" : "Skorobohaty",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.6645611,
+					51.5443499
+				]
+			},
+			"picture" : "http://www.all-about-animals-rescue.com/wp-content/uploads/2012/03/dog_and_older_man_270x2242.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 44,
+			"dances" : [
+				{
+					"dance_id" : "7",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Hubert_Habisiak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Hubert",
+			"gender" : "1",
+			"height" : "148",
+			"last_name" : "Habisiak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.1375192,
+					49.3649930
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/a8/1e/f1/a81ef175dd6af12b82cb0080c8e2643e.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "37",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Oskar_Żytnowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Oskar",
+			"gender" : "1",
+			"height" : "163",
+			"last_name" : "Żytnowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.6850797,
+					53.7959549
+				]
+			},
+			"picture" : "http://www.pimptheface.com/create/faces/preview/big_file241f3e67d5b26644413acd569e5a530c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 31,
+			"dances" : [
+				{
+					"dance_id" : "9",
+					"learn_time" : "3",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marzena_Kurupatowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marzena",
+			"gender" : "0",
+			"height" : "143",
+			"last_name" : "Kurupatowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.8112402,
+					53.3038682
+				]
+			},
+			"picture" : "http://images.sixtyandme.com/wp-content/uploads/2013/03/Sixty-and-Me-6-Healthy-Skin-Tips-for-Every-Woman-Over-60-670x325.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 57,
+			"dances" : [
+				{
+					"dance_id" : "16",
+					"learn_time" : "2",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Agata_Składamowska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Agata",
+			"gender" : "0",
+			"height" : "128",
+			"last_name" : "Składamowska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.9575088,
+					54.1227114
+				]
+			},
+			"picture" : "http://www.grimsbytelegraph.co.uk/images/localworld/ugc-images/276369/Article/images/20588594/5784124-large.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 40,
+			"dances" : [
+				{
+					"dance_id" : "55",
+					"learn_time" : "2",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Gabriela_Dzierepasko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Gabriela",
+			"gender" : "0",
+			"height" : "146",
+			"last_name" : "Dzierepasko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.6137540,
+					51.2417363
+				]
+			},
+			"picture" : "http://pmcmovieline.files.wordpress.com/2011/12/11744a.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 22,
+			"dances" : [
+				{
+					"dance_id" : "47",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Iwona_Nocznicki@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Iwona",
+			"gender" : "0",
+			"height" : "148",
+			"last_name" : "Nocznicki",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.4515939,
+					52.6586622
+				]
+			},
+			"picture" : "http://noboobsaboutit.com/wp-content/uploads/2011/07/Old_Woman.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 52,
+			"dances" : [
+				{
+					"dance_id" : "24",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Adrian_Parobiec@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Adrian",
+			"gender" : "1",
+			"height" : "168",
+			"last_name" : "Parobiec",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.2623324,
+					50.7394650
+				]
+			},
+			"picture" : "http://topnews.in/files/Don%252520Catlin.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 33,
+			"dances" : [
+				{
+					"dance_id" : "33",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Stanisław_Stalmska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Stanisław",
+			"gender" : "1",
+			"height" : "159",
+			"last_name" : "Stalmska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.4591428,
+					54.6392956
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/ac/c0/d7/acc0d74c40c091511ed970f53f7c789c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 34,
+			"dances" : [
+				{
+					"dance_id" : "20",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Marek_Bluk@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Marek",
+			"gender" : "1",
+			"height" : "160",
+			"last_name" : "Bluk",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6509389,
+					53.4956973
+				]
+			},
+			"picture" : "http://media.oregonlive.com/wilsonville/photo/andrew-j-firkins-jr-age-40jpg-fe70febf57244533.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 53,
+			"dances" : [
+				{
+					"dance_id" : "11",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Filip_Kniot@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Filip",
+			"gender" : "1",
+			"height" : "139",
+			"last_name" : "Kniot",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.4107510,
+					50.1006871
+				]
+			},
+			"picture" : "http://images.sciencedaily.com/2014/02/140220095001-large.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 16,
+			"dances" : [
+				{
+					"dance_id" : "9",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Piotr_Herszkowska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Piotr",
+			"gender" : "1",
+			"height" : "144",
+			"last_name" : "Herszkowska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.5927408,
+					52.8532765
+				]
+			},
+			"picture" : "http://media.utsandiego.com/img/photos/2009/03/04/5b870722-40c2-4b27-a3de-98829d9a70cbnews.ap.org_r620x349.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 68,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "3",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Sabina_Radziwanka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Sabina",
+			"gender" : "0",
+			"height" : "167",
+			"last_name" : "Radziwanka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.3751259,
+					51.2813111
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/736x/b1/3a/9f/b13a9f0e19afa141b2417c2316e6c604.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 64,
+			"dances" : [
+				{
+					"dance_id" : "22",
+					"learn_time" : "3",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Daria_Buglowski@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Daria",
+			"gender" : "0",
+			"height" : "162",
+			"last_name" : "Buglowski",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					19.2270067,
+					53.4863655
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/736x/b1/3a/9f/b13a9f0e19afa141b2417c2316e6c604.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 40,
+			"dances" : [
+				{
+					"dance_id" : "12",
+					"learn_time" : "4",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Emil_Strzyz@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Emil",
+			"gender" : "1",
+			"height" : "173",
+			"last_name" : "Strzyz",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.7203347,
+					54.4694071
+				]
+			},
+			"picture" : "http://upload.wikimedia.org/wikipedia/commons/7/73/Cameronavatar.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 39,
+			"dances" : [
+				{
+					"dance_id" : "45",
+					"learn_time" : "1",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Cezary_Frydryszczak@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Cezary",
+			"gender" : "1",
+			"height" : "141",
+			"last_name" : "Frydryszczak",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.8245040,
+					53.1664857
+				]
+			},
+			"picture" : "http://media.nj.com/salem_impact/photo/ronald-sorrelljpg-0a28d6a9b0d09d6e.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 25,
+			"dances" : [
+				{
+					"dance_id" : "24",
+					"learn_time" : "5",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Artur_Norszewska@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Artur",
+			"gender" : "1",
+			"height" : "168",
+			"last_name" : "Norszewska",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					23.2906250,
+					53.2316001
+				]
+			},
+			"picture" : "http://cache1.asset-cache.net/gc/155360820-senior-man-crying-gettyimages.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 66,
+			"dances" : [
+				{
+					"dance_id" : "4",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Anna_Wepko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Anna",
+			"gender" : "0",
+			"height" : "116",
+			"last_name" : "Wepko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.4451283,
+					49.4169274
+				]
+			},
+			"picture" : "http://www.thesecondactblog.com/wp-content/uploads/2014/03/joannatrollope_2164189b.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 32,
+			"dances" : [
+				{
+					"dance_id" : "60",
+					"learn_time" : "5",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Szymon_Splisgard@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Szymon",
+			"gender" : "1",
+			"height" : "184",
+			"last_name" : "Splisgard",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.5973001,
+					52.5989979
+				]
+			},
+			"picture" : "http://media.scmagazineuk.com/images/2014/11/18/sethberman_686824.jpg%253Fformat%253Djpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 39,
+			"dances" : [
+				{
+					"dance_id" : "39",
+					"learn_time" : "3",
+					"like" : "3"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Halina_Czarpan@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Halina",
+			"gender" : "0",
+			"height" : "161",
+			"last_name" : "Czarpan",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.6779444,
+					51.5056268
+				]
+			},
+			"picture" : "http://image-cdn.zap2it.com/images/dixie-carter-hal-holbrook-zap2it.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 38,
+			"dances" : [
+				{
+					"dance_id" : "31",
+					"learn_time" : "2",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Wojciech_Klent@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Wojciech",
+			"gender" : "1",
+			"height" : "142",
+			"last_name" : "Klent",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.6293246,
+					53.1857962
+				]
+			},
+			"picture" : "http://www.lakeatitlantravelguide.com/wp-content/uploads/2014/04/Johan-Reinhard-Photo-Molly-Roberts.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 56,
+			"dances" : [
+				{
+					"dance_id" : "41",
+					"learn_time" : "5",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Zbigniew_Kostelic@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Zbigniew",
+			"gender" : "1",
+			"height" : "177",
+			"last_name" : "Kostelic",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					17.2062422,
+					52.7852023
+				]
+			},
+			"picture" : "http://uhart.giftplans.org/files/1413/5998/9715/lsgp-3.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 69,
+			"dances" : [
+				{
+					"dance_id" : "24",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Weronika_Stokłos@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Weronika",
+			"gender" : "0",
+			"height" : "180",
+			"last_name" : "Stokłos",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					21.6174635,
+					54.3086426
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/4e/94/f3/4e94f3ea65e2a83413b49f504cb6abf0.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 64,
+			"dances" : [
+				{
+					"dance_id" : "49",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Konrad_Bochacik@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Konrad",
+			"gender" : "1",
+			"height" : "150",
+			"last_name" : "Bochacik",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.1868887,
+					50.3645178
+				]
+			},
+			"picture" : "http://bioreports.net/wp-content/uploads/2015/03/benue.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 61,
+			"dances" : [
+				{
+					"dance_id" : "32",
+					"learn_time" : "4",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Kacper_Boysza@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Kacper",
+			"gender" : "1",
+			"height" : "134",
+			"last_name" : "Boysza",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					14.1962456,
+					53.7142449
+				]
+			},
+			"picture" : "http://pmcdeadline2.files.wordpress.com/2011/05/malone_20110525012347.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 28,
+			"dances" : [
+				{
+					"dance_id" : "6",
+					"learn_time" : "4",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Agata_Rammel@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Agata",
+			"gender" : "0",
+			"height" : "136",
+			"last_name" : "Rammel",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					15.6942203,
+					50.6249001
+				]
+			},
+			"picture" : "http://grandmother-blog.com/blog/wp-content/uploads/2015/03/Oldies.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 34,
+			"dances" : [
+				{
+					"dance_id" : "18",
+					"learn_time" : "2",
+					"like" : "2"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Rafał_Pucilauskas@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Rafał",
+			"gender" : "1",
+			"height" : "129",
+			"last_name" : "Pucilauskas",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					18.3430514,
+					49.4525095
+				]
+			},
+			"picture" : "https://s-media-cache-ak0.pinimg.com/236x/ac/c0/d7/acc0d74c40c091511ed970f53f7c789c.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 23,
+			"dances" : [
+				{
+					"dance_id" : "34",
+					"learn_time" : "1",
+					"like" : "1"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bolesław_Łyżeczko@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bolesław",
+			"gender" : "1",
+			"height" : "161",
+			"last_name" : "Łyżeczko",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					22.9794616,
+					52.1583839
+				]
+			},
+			"picture" : "http://www.all-about-animals-rescue.com/wp-content/uploads/2012/03/dog_and_older_man_270x2242.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 64,
+			"dances" : [
+				{
+					"dance_id" : "50",
+					"learn_time" : "5",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Karol_Ciborek@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Karol",
+			"gender" : "1",
+			"height" : "148",
+			"last_name" : "Ciborek",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.5617877,
+					54.5813862
+				]
+			},
+			"picture" : "http://s3-ak.buzzfeed.com/static/enhanced/terminal01/2011/4/5/16/enhanced-buzz-16307-1302035211-25.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 46,
+			"dances" : [
+				{
+					"dance_id" : "34",
+					"learn_time" : "2",
+					"like" : "5"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Hanna_Waret@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Hanna",
+			"gender" : "0",
+			"height" : "111",
+			"last_name" : "Waret",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					20.2545648,
+					49.9089453
+				]
+			},
+			"picture" : "http://fabafter40-cdn.wpengine.netdna-cdn.com/wp-content/uploads/2009/04/helene_lisa-clash-09.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }, 
+		    {
+			"age" : 64,
+			"dances" : [
+				{
+					"dance_id" : "51",
+					"learn_time" : "1",
+					"like" : "4"
+				}
+			],
+			"description" : "Hey, this is my awesome description",
+			"email" : "Bernadeta_Howijka@dancekindle.com",
+			"facebook" : {
+				"id" : "10153571901369408"
+			},
+			"first_name" : "Bernadeta",
+			"gender" : "0",
+			"height" : "144",
+			"last_name" : "Howijka",
+			"location" : {
+				"type" : "Point",
+				"coordinates" : [
+					24.2322663,
+					53.9902377
+				]
+			},
+			"picture" : "http://dingo.care2.com/pictures/c2c/share/64/640/075/640750_370.jpg",
+			"registered" : ISODate("2015-03-24T20:37:50.711Z"),
+		    }
