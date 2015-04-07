@@ -1,0 +1,5 @@
+wto, 7 kwi 2015, 08:33:18 CEST - Zadanie "./gen_users.sh 100 8 4 test" wykonalo sie w 15 sek
+wto, 7 kwi 2015, 08:37:46 CEST - Zadanie "./gen_users.sh 1000 8 4 test" wykonalo sie w 135 sek
+wto, 7 kwi 2015, 09:05:16 CEST - Zadanie "./gen_users.sh 10000 8 4 test10000" wykonalo sie w 1482 sek
+wto, 7 kwi 2015, 21:02:35 CEST - Zadanie "./gen_users.sh 1000 10 4 newtest" wykonalo sie w 237 sek
+wto, 7 kwi 2015, 21:35:12 CEST - Zadanie "./gen_users.sh 1000 4 4 gender" wykonalo sie w 66 sek

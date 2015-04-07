@@ -75,29 +75,29 @@ echo -n "$(if [ $i -eq 1 ] && [ $z -eq 1 ]; then echo -n "["; else echo -n ","; 
                         \"age\" : ${age},
                         \"dances\" : [
                                 {
-                                        \"dance_id\" : \"${dance_id}\",
-                                        \"learn_time\" : \"${learn_time}\",
-                                        \"like\" : \"${like}\"
+                                        \"dance_id\" : ${dance_id},
+                                        \"learn_time\" : ${learn_time},
+                                        \"like\" : ${like}
                                 }
                         ],
                         \"description\" : \"Hey, this is my awesome description\",
                         \"email\" : \"${first_name}_${last_name}@dancekindle.com\",
                         \"facebook\" : {
-                                \"id\" : \"10153571901369408\"
+                                \"id\" : \"20153571901369408\"
                         },
                         \"first_name\" : \"${first_name}\",
-                        \"gender\" : \"${gender}\",
-                        \"height\" : \"${height}\",
+                        \"gender\" : \"${gender1}\",
+                        \"height\" : ${height},
                         \"last_name\" : \"${last_name}\",
                         \"location\" : {
                                 \"type\" : \"Point\",
                                 \"coordinates\" : [
-                                        ${map_x},
-                                        ${map_y}
+                                        ${map_x}.${map_x1},
+                                        ${map_y}.${map_y1}
                                 ]
                         },
                         \"picture\" : \"${picture_url}\",
-                        \"registered\" : ISODate(\"2015-03-24T20:37:50.711Z\"),
+                        \"registered\" : \"2015-03-24T20:37:50.711Z\"
                     }" >> ${n_db}/${zad}.db
                     if [ ${z} -eq ${il_zad} ] && [ ${il_gen_usr} -eq $i ]; then echo -e "\n]" >> ${n_db}/${zad}.db; fi
 			
@@ -122,11 +122,13 @@ do
 		first_name="${t_imiona_m[$m]}"
 		p=$(rand1 ${pic_max_m})
 		picture_url="$(eval echo $(echo \${t_photo_${age2}_m[p]}))"
+		gender1="male"
 	else
 		k=$(rand1 ${il_imiona_k})
 		first_name="${t_imiona_k[$k]}"
 		p=$(rand1 ${pic_max_k})
 		picture_url="$(eval echo $(echo \${t_photo_${age2}_k[p]}))"
+		gender1="female"
 	fi
 
 	n=$(rand2 0 ${il_nazwiska})
@@ -139,6 +141,8 @@ do
 	height="$(rand2 135 189)"
 	map_y="$(rand2 ${gps[0]} ${gps[1]})"
 	map_x="$(rand2 ${gps[2]} ${gps[3]})"
+	map_y1="$(rand1 9999)"
+	map_x1="$(rand1 9999)"
 
 	registered="data"
 	learn_time="$(rand1 5)"
@@ -154,7 +158,9 @@ zad="$1"
 il_gen_usr=$2
 
 	echo "${zad} start"
+	start=$(( $(date +%s) ))
 	generator "${il_gen_usr}"
+	echo Proces wykonal sie w $(( $(date +%s) - $start )) sek
 	echo "${zad} done"
 }
 
@@ -170,9 +176,15 @@ function job_wait {
 ### MAIN ###
 ############
 
+startall=$(( $(date +%s) ))
+
 for ((z=1; $z<=${il_zad}; z++)) ; do 
 	process zad${z} ${il_gen_usr} & 
 	job_wait ${il_cpu_max} 
 done 
 
 wait
+
+la=$(( $(date +%s) - $startall ))
+
+echo "$(date) - Zadanie \"$0 $*\" wykonalo sie w $la sek" | tee >> stats.log
